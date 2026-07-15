@@ -1,0 +1,10 @@
+# Only the DEMO pbix (synthetic data) belongs in this repo.
+# Never commit a pbix connected to the real database.
+PersonalFinanceAnalytics.pbix
+*_REAL.pbix
+
+# Power BI / OS junk
+*.tmp
+Thumbs.db
+.DS_Store
+~$*

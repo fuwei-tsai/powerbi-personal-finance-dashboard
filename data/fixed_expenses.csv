@@ -1,0 +1,6 @@
+id,item_description,amount,currency,category,payment_method,charge_day
+1,Phone Bill,25,EUR,Living,Primary Credit Card,5
+2,Streaming Subscription,15,EUR,Entertainment,Digital Wallet,10
+3,Cloud AI Subscription,20,USD,Learning,Digital Wallet,9
+4,Gym Membership,40,EUR,Living,Primary Credit Card,1
+5,Rent,650,EUR,Living,Primary Credit Card,1

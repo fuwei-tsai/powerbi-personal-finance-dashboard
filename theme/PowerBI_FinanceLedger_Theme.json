@@ -1,0 +1,38 @@
+{
+  "name": "Finance Ledger",
+  "dataColors": [
+    "#3E7C74",
+    "#C97B2E",
+    "#7C8496",
+    "#1B2430",
+    "#5AAA9E",
+    "#E0954B",
+    "#94A0AE",
+    "#2E3B36"
+  ],
+  "background": "#FFFDF8",
+  "foreground": "#1B2430",
+  "tableAccent": "#3E7C74",
+  "good": "#3E7C74",
+  "bad": "#C97B2E",
+  "neutral": "#7C8496",
+  "maximum": "#1B2430",
+  "center": "#DED6C3",
+  "minimum": "#F6F3EC",
+  "textClasses": {
+    "label": {
+      "fontFace": "Segoe UI",
+      "color": "#1B2430"
+    },
+    "callout": {
+      "fontFace": "Georgia",
+      "fontSize": 28,
+      "color": "#1B2430"
+    },
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 13,
+      "color": "#1B2430"
+    }
+  }
+}
